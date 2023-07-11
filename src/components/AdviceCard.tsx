@@ -29,7 +29,7 @@ function AdviceCard() {
         />
       </picture>
       <button
-        className="center absolute left-1/2 rounded-full bg-secondary p-5 transition-colors hover:bg-emerald-400"
+        className="center absolute left-1/2 rounded-full bg-secondary p-5 transition-colors hover:bg-emerald-400 disabled:cursor-not-allowed disabled:bg-emerald-400"
         onClick={() => {
           getAdvice().catch((err) => console.error(err));
         }}
