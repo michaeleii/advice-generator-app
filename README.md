@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [[Add solution URL here](https://www.frontendmentor.io/solutions/advice-generator-app-react-tailwindcss-eoRRlwvwG8)]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/advice-generator-app-react-tailwindcss-eoRRlwvwG8))
 - Live Site URL: [https://michaellei-advice-generator.netlify.app/](https://michaellei-advice-generator.netlify.app/)
 
 ## My process
@@ -43,7 +43,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned how to create a custom hooks to seperate the fetching advice logic from the component. This makes the fetching advice logic reusable.
+I learned how to create a custom hooks to separate the fetching advice logic from the component. This makes the fetching advice logic reusable.
 
 ## Author
 
