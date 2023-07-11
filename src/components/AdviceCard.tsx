@@ -33,6 +33,7 @@ function AdviceCard() {
         onClick={() => {
           getAdvice().catch((err) => console.error(err));
         }}
+        disabled={isLoading}
       >
         <DiceIcon />
       </button>

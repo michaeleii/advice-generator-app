@@ -11,7 +11,9 @@ export function useAdvice() {
     advice: string;
     id: number;
   }>();
+
   const [isLoading, setIsLoading] = useState(true);
+
   async function fetchAdvice() {
     try {
       setIsLoading(true);
